@@ -49,25 +49,25 @@
       {
         "width": 1080,
         "height": 2880,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-tzP6WdHJGNu80Hi3c-26joSbdqAcn0Yl_bVRvXRvW4BYYs2ILU9nF8wxQA9vTNYPtgjiQigpz96fRb7fc4boY7SWWGqhofBs1sLnFMY6pn2mQTA4sqF05ixE92Oy8uMa2PxpiD0nntMEnLCmwq1Ol-6fq8UYZTZQ8wfU2U9kJUfEvJZ1tVHnIybvDyHl8YJ_WCXfGqHW5aRxiTN7jmGpQO5VR-E3EgBGOtWyprdy1fNX_CeuLp5LbhUoHfxyZMSM2Y_XGDo0guvYVKjFsUKzRgWmeWz9yMyolhMuOMrdrVpw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/dharmaji1.jpg"
       },
       {
         "width": 653,
         "height": 986,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-s4rcSaG208d67UqxkbyNB7IeXFPF5QnYaUCW_s_qyGJKOaVsEcVUIAi_78CE3lMUv-LrBjHdOTjwGKgDU6v-LrRB80wxauweZX-6XI7Oo1DO3j4LMfcGMExzCCOaIJ4msakz0l4ZONppNaE6Vp1tLuN2gxGUWockgeJpUt5jnDWmrWHdk8Ba2mv6zplc4gTFNEnH_T2cNfNM-UvgW3ADlYkVCyrzQWFzdqOHJlMRtC3d_q70xIeoa6Ss5q_asaNE7Cwo2mFf1M-QWBoEuO0V1B99Hl1HDCSyOp_O8DtSvwR0aVH2QKovsf9qvuYDICxCPDUFhmOZ1bkEcBrPSu4DxPFn2Vg6tcCcNjsMkb2R9mN0AgN2uEN4gBlLiMjv4zpwjYhSbjqQOF6JTupSyQAHfC77ZdssVVttzUkQfkj0ZXmg&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/dharmaji2.jpg"
       },
       {
         "width": 1280,
         "height": 720,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sdON8xOgFeTYU5Z5lPfoGK0jrWE9gBvIvEeVBAqDtQK9q1H7Qetw3xMfFbTDpXu_u3b-osu19kv5geDZi4qHmOWPNTBFHr0s1FbicSRpm2OQdu1l7zWR5LyGWMYXJ4HeLY2bDrwp9zGlqvJwOChmLMUJcO0e52-vDqbxycxRajpAJl-ja3b6m1DbniF4dEh-BfcM2sGcohMxxbrRoAhVntFILkvo_kggaj2n7vU3h8ux16IRlbgkZvPs7FpD4kQWgVGd3qNf2CVzS-0spgc8I_Otama-M5qCzGxHsFeZTO8A&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/dharmaji3.jpg"
       },
       {
         "width": 1280,
         "height": 720,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-t0xdBpg-qmXhCWzcCcHa29fJvyA5gmC7JmPNPURobliiZW8q4f_E5ahtYw3uTBAFqPD0g7DY-Xcc_RZnII_VXTottybtSWQn11Fzv3eVBnMhMrVEeGOotTCwNFwrXhmp0Q1pFuxENmLkrYy8ovtwcTYKz90OGCKH_cFrkcxwHrq5N2wx-QpB3FocqPlAycWU3JYhH5xvSzN9EFee9W7jl2zXUpsVuQ1u6WwYhvLsOXu8248l9KC8FlczXgBfeDoJmGPOqmMoB-IQ3CNz_Um_u8m9Ci8lsR2ZbCwFILiWi8aA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/dharmaji4.jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-tzP6WdHJGNu80Hi3c-26joSbdqAcn0Yl_bVRvXRvW4BYYs2ILU9nF8wxQA9vTNYPtgjiQigpz96fRb7fc4boY7SWWGqhofBs1sLnFMY6pn2mQTA4sqF05ixE92Oy8uMa2PxpiD0nntMEnLCmwq1Ol-6fq8UYZTZQ8wfU2U9kJUfEvJZ1tVHnIybvDyHl8YJ_WCXfGqHW5aRxiTN7jmGpQO5VR-E3EgBGOtWyprdy1fNX_CeuLp5LbhUoHfxyZMSM2Y_XGDo0guvYVKjFsUKzRgWmeWz9yMyolhMuOMrdrVpw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/dharmaji1.jpg"
   },
   "website_config": {
     "theme": "luxury-fashion",
